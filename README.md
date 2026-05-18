@@ -1,6 +1,6 @@
 <!-- Dynamic Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello%20World!&fontSize=70" width="100%" />
+  <img src="header.jpg" width="100%" />
 </div>
 
 <!-- Social Links (Dark Mode Badges) -->
