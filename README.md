@@ -20,6 +20,7 @@ Hello! I'm **Harsh Yadav**, a Full-Stack Developer specializing in building robu
 *   💻 **Main Focus:** Full-Stack Development & DSA
 *   🏆 **Achievement:** Smart India Hackathon National Runner-Up
 *   🚀 **Projects:** Building Yapsy (Real-time Chat) & Tracks (AI Learning Platform)
+*   🌐 **Portfolio:** [harsh-s-portfolio-ten.vercel.app](https://harsh-s-portfolio-ten.vercel.app/)
 
 <br/><br/>
 
