@@ -1,6 +1,6 @@
 <!-- Dynamic Header Banner -->
 <div align="center">
-  <img src="header.jpg" width="100%" />
+  <img src="profile_image.webp" width="100%" />
 </div>
 
 <!-- Social Links (Dark Mode Badges) -->
