@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggCGvnP1K/giphy.gif" width="300" alt="Coding GIF" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRraTRrdDZpZXk5MG9lZng1ZWMzMHVkaDA5dndiY25iY2VjeDVwbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CTX0ivSQbI78A/giphy.gif" width="300" alt="Coding GIF" />
 
 Hello! I'm **Harsh Yadav**, a Full-Stack Developer specializing in building robust applications and solving complex problems with Data Structures & Algorithms.
 
